@@ -92,7 +92,7 @@ for i in range(len(change_revenue)):
         month_greatest_decrease=month_year[i+1].strftime('%b')
         year_greatest_decrease = month_year[i+1].strftime('%Y')
 
-# pritning total months, total profit/loss, average change in profit/loss between months and 
+# printing total months, total profit/loss, average change in profit/loss between months and 
 # printing greatest increase in profit and greatest decrease in profit to the terminal 
 print("Financial Analysis")
 print("---------------------------------------")
